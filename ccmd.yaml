@@ -1,0 +1,10 @@
+name: hello-world
+version: 1.0.0
+description: Hello World command for ccmd testing
+author: Test Author
+repository: https://github.com/gifflet/hello-world
+entry: index.md
+tags:
+  - test
+  - hello-world
+  - claude-code
